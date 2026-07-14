@@ -1,5 +1,5 @@
 {
-    "name": "ddcedbdfceffe",
+    "name": "chc-h5",
     "url": "https://h5zksq.5535.cn/Portal/login/indexios?gid=3188",
     "showName": "彩虹橙h5",
     "appid": "com.chc.h5",
@@ -33,7 +33,7 @@
     "versionStr": "web10",
     "more": {
         "windows": {
-            "label": "ddcedbdfceffe",
+            "label": "chc-h5",
             "title": "彩虹橙h5",
             "url": "https://h5zksq.5535.cn/Portal/login/indexios?gid=3188",
             "userAgent": "Mozilla/5.0 (Linux; Android 14; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36",
@@ -159,7 +159,7 @@
         }
     },
     "ios": {
-        "name": "ddcedbdfceffe",
+        "name": "chc-h5",
         "showName": "彩虹橙h5",
         "version": "0.0.1",
         "webUrl": "https://h5zksq.5535.cn/Portal/login/indexios?gid=3188",
@@ -172,7 +172,7 @@
         "safeArea": "all"
     },
     "android": {
-        "name": "ddcedbdfceffe",
+        "name": "chc-h5",
         "showName": "彩虹橙h5",
         "version": "0.0.1",
         "webUrl": "https://h5zksq.5535.cn/Portal/login/indexios?gid=3188",
@@ -190,7 +190,7 @@
         "safeArea": "all"
     },
     "desktop": {
-        "name": "ddcedbdfceffe",
+        "name": "chc-h5",
         "showName": "彩虹橙h5",
         "version": "0.0.1",
         "id": "com.chc.h5.desktop",
